@@ -42,3 +42,5 @@ jobs:
           git add football_epg.xml
           git commit -m "Update EPG file"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
