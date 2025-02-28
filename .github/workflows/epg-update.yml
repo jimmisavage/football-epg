@@ -1,0 +1,35 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This runs at midnight every day (you can change the schedule if you want)
+  workflow_dispatch:  # Allows you to manually trigger the workflow from GitHub
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest  # This runs the workflow on a Linux environment
+
+    steps:
+    - name: Checkout the repo
+      uses: actions/checkout@v2  # This checks out your repository
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # This sets up Python 3.x
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests  # Install the requests library, which your script needs
+
+    - name: Run the Python script to generate the EPG
+      run: python3 scripts/football_epg.py  # Run the Python script you created
+
+    - name: Commit the updated EPG file
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add football_epg.xml  # Add the updated EPG file
+        git commit -m "Update EPG file"  # Commit the update
+        git push  # Push the changes back to the repo
