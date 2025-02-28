@@ -3,6 +3,7 @@ name: EPG Update
 on:
   schedule:
     - cron: '0 0 * * *'  # Run every day at midnight
+  workflow_dispatch:  # Allows manual trigger of the workflow
 
 jobs:
   update-epg:
