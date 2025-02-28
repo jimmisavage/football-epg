@@ -1,38 +1,42 @@
-name: Update EPG
+name: EPG Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This runs at midnight every day (you can change the schedule if you want)
-  workflow_dispatch:  # Allows you to manually trigger the workflow from GitHub
+    - cron: '0 0 * * *'  # Run every day at midnight
 
 jobs:
   update-epg:
-    runs-on: ubuntu-latest  # This runs the workflow on a Linux environment
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Set up GitHub Token for pushing changes
-      run: echo "GH_TOKEN=${{ secrets.GH_TOKEN }}" >> $GITHUB_ENV
-      
-    - name: Checkout the repo
-      uses: actions/checkout@v2  # This checks out your repository
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'  # This sets up Python 3.x
+      # Set up Python environment and dependencies
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests  # Install the requests library, which your script needs
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Run the Python script to generate the EPG
-      run: python3 scripts/football_epg.py  # Run the Python script you created
+      # Run the Python script to update the EPG file
+      - name: Run the EPG script
+        run: python scripts/football_epg.py
 
-    - name: Commit the updated EPG file
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-        git add football_epg.xml  # Add the updated EPG file
-        git commit -m "Update EPG file"  # Commit the update
-        git push  # Push the changes back to the repo
+      # Set up the GitHub token for pushing changes
+      - name: Set up GitHub Token for pushing changes
+        run: echo "GH_TOKEN=${{ secrets.GH_TOKEN }}" >> $GITHUB_ENV
+
+      # Commit and push the changes using the GitHub token
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add football_epg.xml
+          git commit -m "Update EPG file"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
