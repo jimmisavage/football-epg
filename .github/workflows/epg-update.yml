@@ -9,10 +9,10 @@ jobs:
   update-epg:
     runs-on: ubuntu-latest  # This runs the workflow on a Linux environment
 
+    steps:
     - name: Set up GitHub Token for pushing changes
       run: echo "GH_TOKEN=${{ secrets.GH_TOKEN }}" >> $GITHUB_ENV
-
-    steps:
+      
     - name: Checkout the repo
       uses: actions/checkout@v2  # This checks out your repository
 
