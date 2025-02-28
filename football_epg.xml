@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <programme start="2025-02-28T00:30:00Z" channel="FBC Melgar vs CD Tolima">
+    <title>FBC Melgar vs CD Tolima</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-02-28T19:00:00Z" channel="RKC Waalwijk vs Fortuna Sittard">
+    <title>RKC Waalwijk vs Fortuna Sittard</title>
+    <desc>Eredivisie</desc>
+  </programme>
+  <programme start="2025-02-28T19:30:00Z" channel="VfB Stuttgart vs FC Bayern München">
+    <title>VfB Stuttgart vs FC Bayern München</title>
+    <desc>Bundesliga</desc>
+  </programme>
+  <programme start="2025-02-28T19:45:00Z" channel="AS Monaco FC vs Stade de Reims">
+    <title>AS Monaco FC vs Stade de Reims</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-02-28T19:45:00Z" channel="ACF Fiorentina vs US Lecce">
+    <title>ACF Fiorentina vs US Lecce</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-02-28T20:00:00Z" channel="Real Valladolid CF vs UD Las Palmas">
+    <title>Real Valladolid CF vs UD Las Palmas</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-02-28T20:00:00Z" channel="Sheffield Wednesday FC vs Sunderland AFC">
+    <title>Sheffield Wednesday FC vs Sunderland AFC</title>
+    <desc>Championship</desc>
+  </programme>
+</tv>
