@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-03-03T19:45:00Z" channel="Juventus FC vs Hellas Verona FC">
-    <title>Juventus FC vs Hellas Verona FC</title>
-    <desc>Serie A</desc>
+  <programme start="2025-03-04T17:45:00Z" channel="Club Brugge KV vs Aston Villa FC">
+    <title>Club Brugge KV vs Aston Villa FC</title>
+    <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-03-03T20:00:00Z" channel="Villarreal CF vs RCD Espanyol de Barcelona">
-    <title>Villarreal CF vs RCD Espanyol de Barcelona</title>
-    <desc>Primera Division</desc>
+  <programme start="2025-03-04T19:45:00Z" channel="Hull City AFC vs Plymouth Argyle FC">
+    <title>Hull City AFC vs Plymouth Argyle FC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-03-03T20:15:00Z" channel="Sporting Clube de Portugal vs GD Estoril Praia">
-    <title>Sporting Clube de Portugal vs GD Estoril Praia</title>
-    <desc>Primeira Liga</desc>
+  <programme start="2025-03-04T19:45:00Z" channel="Preston North End FC vs Swansea City AFC">
+    <title>Preston North End FC vs Swansea City AFC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-04T19:45:00Z" channel="Millwall FC vs Bristol City FC">
+    <title>Millwall FC vs Bristol City FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-04T19:45:00Z" channel="Cardiff City FC vs Burnley FC">
+    <title>Cardiff City FC vs Burnley FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-04T20:00:00Z" channel="Real Madrid CF vs Club Atlético de Madrid">
+    <title>Real Madrid CF vs Club Atlético de Madrid</title>
+    <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-03-04T20:00:00Z" channel="Borussia Dortmund vs Lille OSC">
+    <title>Borussia Dortmund vs Lille OSC</title>
+    <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-03-04T20:00:00Z" channel="PSV vs Arsenal FC">
+    <title>PSV vs Arsenal FC</title>
+    <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-03-04T22:00:00Z" channel="CD Iquique vs Club Alianza Lima">
+    <title>CD Iquique vs Club Alianza Lima</title>
+    <desc>Copa Libertadores</desc>
   </programme>
 </tv>
