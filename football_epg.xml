@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-03-04T17:45:00Z" channel="Club Brugge KV vs Aston Villa FC">
-    <title>Club Brugge KV vs Aston Villa FC</title>
+  <programme start="2025-03-05T17:45:00Z" channel="Feyenoord Rotterdam vs FC Internazionale Milano">
+    <title>Feyenoord Rotterdam vs FC Internazionale Milano</title>
     <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-03-04T19:45:00Z" channel="Hull City AFC vs Plymouth Argyle FC">
-    <title>Hull City AFC vs Plymouth Argyle FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-03-04T19:45:00Z" channel="Preston North End FC vs Swansea City AFC">
-    <title>Preston North End FC vs Swansea City AFC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-03-04T19:45:00Z" channel="Millwall FC vs Bristol City FC">
-    <title>Millwall FC vs Bristol City FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-03-04T19:45:00Z" channel="Cardiff City FC vs Burnley FC">
-    <title>Cardiff City FC vs Burnley FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-03-04T20:00:00Z" channel="Real Madrid CF vs Club Atlético de Madrid">
-    <title>Real Madrid CF vs Club Atlético de Madrid</title>
+  <programme start="2025-03-05T20:00:00Z" channel="Sport Lisboa e Benfica vs FC Barcelona">
+    <title>Sport Lisboa e Benfica vs FC Barcelona</title>
     <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-03-04T20:00:00Z" channel="Borussia Dortmund vs Lille OSC">
-    <title>Borussia Dortmund vs Lille OSC</title>
+  <programme start="2025-03-05T20:00:00Z" channel="FC Bayern München vs Bayer 04 Leverkusen">
+    <title>FC Bayern München vs Bayer 04 Leverkusen</title>
     <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-03-04T20:00:00Z" channel="PSV vs Arsenal FC">
-    <title>PSV vs Arsenal FC</title>
+  <programme start="2025-03-05T20:00:00Z" channel="Paris Saint-Germain FC vs Liverpool FC">
+    <title>Paris Saint-Germain FC vs Liverpool FC</title>
     <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-03-04T22:00:00Z" channel="CD Iquique vs Club Alianza Lima">
-    <title>CD Iquique vs Club Alianza Lima</title>
+  <programme start="2025-03-05T22:00:00Z" channel="FBC Melgar vs Club Cerro Porteño">
+    <title>FBC Melgar vs Club Cerro Porteño</title>
     <desc>Copa Libertadores</desc>
   </programme>
 </tv>
