@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-03-05T17:45:00Z" channel="Feyenoord Rotterdam vs FC Internazionale Milano">
-    <title>Feyenoord Rotterdam vs FC Internazionale Milano</title>
-    <desc>UEFA Champions League</desc>
-  </programme>
-  <programme start="2025-03-05T20:00:00Z" channel="Sport Lisboa e Benfica vs FC Barcelona">
-    <title>Sport Lisboa e Benfica vs FC Barcelona</title>
-    <desc>UEFA Champions League</desc>
-  </programme>
-  <programme start="2025-03-05T20:00:00Z" channel="FC Bayern München vs Bayer 04 Leverkusen">
-    <title>FC Bayern München vs Bayer 04 Leverkusen</title>
-    <desc>UEFA Champions League</desc>
-  </programme>
-  <programme start="2025-03-05T20:00:00Z" channel="Paris Saint-Germain FC vs Liverpool FC">
-    <title>Paris Saint-Germain FC vs Liverpool FC</title>
-    <desc>UEFA Champions League</desc>
-  </programme>
-  <programme start="2025-03-05T22:00:00Z" channel="FBC Melgar vs Club Cerro Porteño">
-    <title>FBC Melgar vs Club Cerro Porteño</title>
+  <programme start="2025-03-06T00:30:00Z" channel="Barcelona SC vs SC Corinthians Paulista">
+    <title>Barcelona SC vs SC Corinthians Paulista</title>
     <desc>Copa Libertadores</desc>
   </programme>
 </tv>
