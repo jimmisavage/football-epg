@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-03-06T00:30:00Z" channel="Barcelona SC vs SC Corinthians Paulista">
-    <title>Barcelona SC vs SC Corinthians Paulista</title>
+  <programme start="2025-03-07T00:30:00Z" channel="CA Boston River vs EC Bahia">
+    <title>CA Boston River vs EC Bahia</title>
     <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-03-07T19:00:00Z" channel="NAC Breda vs Sparta Rotterdam">
+    <title>NAC Breda vs Sparta Rotterdam</title>
+    <desc>Eredivisie</desc>
+  </programme>
+  <programme start="2025-03-07T19:30:00Z" channel="Borussia Mönchengladbach vs 1. FSV Mainz 05">
+    <title>Borussia Mönchengladbach vs 1. FSV Mainz 05</title>
+    <desc>Bundesliga</desc>
+  </programme>
+  <programme start="2025-03-07T19:45:00Z" channel="Toulouse FC vs AS Monaco FC">
+    <title>Toulouse FC vs AS Monaco FC</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-03-07T19:45:00Z" channel="Cagliari Calcio vs Genoa CFC">
+    <title>Cagliari Calcio vs Genoa CFC</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-03-07T20:00:00Z" channel="Norwich City FC vs Oxford United FC">
+    <title>Norwich City FC vs Oxford United FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-07T20:15:00Z" channel="CF Estrela da Amadora vs Gil Vicente FC">
+    <title>CF Estrela da Amadora vs Gil Vicente FC</title>
+    <desc>Primeira Liga</desc>
   </programme>
 </tv>
