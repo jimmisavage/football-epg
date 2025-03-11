@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-03-10T19:45:00Z" channel="SS Lazio vs Udinese Calcio">
-    <title>SS Lazio vs Udinese Calcio</title>
-    <desc>Serie A</desc>
+  <programme start="2025-03-11T17:45:00Z" channel="FC Barcelona vs Sport Lisboa e Benfica">
+    <title>FC Barcelona vs Sport Lisboa e Benfica</title>
+    <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-03-10T20:00:00Z" channel="West Ham United FC vs Newcastle United FC">
-    <title>West Ham United FC vs Newcastle United FC</title>
-    <desc>Premier League</desc>
+  <programme start="2025-03-11T19:45:00Z" channel="Cardiff City FC vs Luton Town FC">
+    <title>Cardiff City FC vs Luton Town FC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-03-10T20:00:00Z" channel="RCD Espanyol de Barcelona vs Girona FC">
-    <title>RCD Espanyol de Barcelona vs Girona FC</title>
-    <desc>Primera Division</desc>
+  <programme start="2025-03-11T19:45:00Z" channel="Middlesbrough FC vs Queens Park Rangers FC">
+    <title>Middlesbrough FC vs Queens Park Rangers FC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-03-10T20:15:00Z" channel="FC Famalicão vs Rio Ave FC">
-    <title>FC Famalicão vs Rio Ave FC</title>
-    <desc>Primeira Liga</desc>
+  <programme start="2025-03-11T19:45:00Z" channel="Norwich City FC vs Sheffield Wednesday FC">
+    <title>Norwich City FC vs Sheffield Wednesday FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-11T19:45:00Z" channel="Derby County FC vs Coventry City FC">
+    <title>Derby County FC vs Coventry City FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-11T19:45:00Z" channel="Sunderland AFC vs Preston North End FC">
+    <title>Sunderland AFC vs Preston North End FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-11T19:45:00Z" channel="Burnley FC vs West Bromwich Albion FC">
+    <title>Burnley FC vs West Bromwich Albion FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-11T20:00:00Z" channel="FC Internazionale Milano vs Feyenoord Rotterdam">
+    <title>FC Internazionale Milano vs Feyenoord Rotterdam</title>
+    <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-03-11T20:00:00Z" channel="Sheffield United FC vs Bristol City FC">
+    <title>Sheffield United FC vs Bristol City FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-11T20:00:00Z" channel="Liverpool FC vs Paris Saint-Germain FC">
+    <title>Liverpool FC vs Paris Saint-Germain FC</title>
+    <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-03-11T20:00:00Z" channel="Bayer 04 Leverkusen vs FC Bayern München">
+    <title>Bayer 04 Leverkusen vs FC Bayern München</title>
+    <desc>UEFA Champions League</desc>
   </programme>
 </tv>
