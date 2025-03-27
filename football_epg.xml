@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <programme start="2025-03-27T20:00:00Z" channel="FC Barcelona vs CA Osasuna">
+    <title>FC Barcelona vs CA Osasuna</title>
+    <desc>Primera Division</desc>
+  </programme>
 </tv>
