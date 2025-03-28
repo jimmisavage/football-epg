@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-03-27T20:00:00Z" channel="FC Barcelona vs CA Osasuna">
-    <title>FC Barcelona vs CA Osasuna</title>
+  <programme start="2025-03-28T19:30:00Z" channel="Bayer 04 Leverkusen vs VfL Bochum 1848">
+    <title>Bayer 04 Leverkusen vs VfL Bochum 1848</title>
+    <desc>Bundesliga</desc>
+  </programme>
+  <programme start="2025-03-28T19:45:00Z" channel="RC Strasbourg Alsace vs Olympique Lyonnais">
+    <title>RC Strasbourg Alsace vs Olympique Lyonnais</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-03-28T20:00:00Z" channel="Athletic Club vs CA Osasuna">
+    <title>Athletic Club vs CA Osasuna</title>
     <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-03-28T20:00:00Z" channel="Sheffield United FC vs Coventry City FC">
+    <title>Sheffield United FC vs Coventry City FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-03-28T20:15:00Z" channel="Gil Vicente FC vs Sport Lisboa e Benfica">
+    <title>Gil Vicente FC vs Sport Lisboa e Benfica</title>
+    <desc>Primeira Liga</desc>
   </programme>
 </tv>
