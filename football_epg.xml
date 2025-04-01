@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-03-31T16:30:00Z" channel="Hellas Verona FC vs Parma Calcio 1913">
-    <title>Hellas Verona FC vs Parma Calcio 1913</title>
-    <desc>Serie A</desc>
+  <programme start="2025-04-01T18:00:00Z" channel="AZ vs RKC Waalwijk">
+    <title>AZ vs RKC Waalwijk</title>
+    <desc>Eredivisie</desc>
   </programme>
-  <programme start="2025-03-31T18:45:00Z" channel="SS Lazio vs Torino FC">
-    <title>SS Lazio vs Torino FC</title>
-    <desc>Serie A</desc>
+  <programme start="2025-04-01T18:45:00Z" channel="Arsenal FC vs Fulham FC">
+    <title>Arsenal FC vs Fulham FC</title>
+    <desc>Premier League</desc>
   </programme>
-  <programme start="2025-03-31T19:00:00Z" channel="RC Celta de Vigo vs UD Las Palmas">
-    <title>RC Celta de Vigo vs UD Las Palmas</title>
-    <desc>Primera Division</desc>
+  <programme start="2025-04-01T18:45:00Z" channel="Wolverhampton Wanderers FC vs West Ham United FC">
+    <title>Wolverhampton Wanderers FC vs West Ham United FC</title>
+    <desc>Premier League</desc>
   </programme>
-  <programme start="2025-03-31T23:00:00Z" channel="RB Bragantino vs Ceará SC">
-    <title>RB Bragantino vs Ceará SC</title>
-    <desc>Campeonato Brasileiro Série A</desc>
+  <programme start="2025-04-01T19:00:00Z" channel="Nottingham Forest FC vs Manchester United FC">
+    <title>Nottingham Forest FC vs Manchester United FC</title>
+    <desc>Premier League</desc>
+  </programme>
+  <programme start="2025-04-01T19:15:00Z" channel="Boavista FC vs Gil Vicente FC">
+    <title>Boavista FC vs Gil Vicente FC</title>
+    <desc>Primeira Liga</desc>
+  </programme>
+  <programme start="2025-04-01T22:00:00Z" channel="Carabobo FC vs Estudiantes de La Plata">
+    <title>Carabobo FC vs Estudiantes de La Plata</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-01T22:00:00Z" channel="Club Cerro Porteño vs Club Bolívar">
+    <title>Club Cerro Porteño vs Club Bolívar</title>
+    <desc>Copa Libertadores</desc>
   </programme>
 </tv>
