@@ -1,63 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-02T00:30:00Z" channel="CA Bucaramanga vs CSD Colo-Colo">
-    <title>CA Bucaramanga vs CSD Colo-Colo</title>
+  <programme start="2025-04-03T00:30:00Z" channel="CA Talleres vs São Paulo FC">
+    <title>CA Talleres vs São Paulo FC</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-04-02T00:30:00Z" channel="Fortaleza EC vs Racing Club">
-    <title>Fortaleza EC vs Racing Club</title>
+  <programme start="2025-04-03T00:30:00Z" channel="Club Universitario de Deportes vs CA River Plate">
+    <title>Club Universitario de Deportes vs CA River Plate</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-04-02T02:00:00Z" channel="Barcelona SC vs CAR Independiente del Valle">
-    <title>Barcelona SC vs CAR Independiente del Valle</title>
+  <programme start="2025-04-03T00:30:00Z" channel="CF Universidad de Chile vs Botafogo FR">
+    <title>CF Universidad de Chile vs Botafogo FR</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-04-02T02:00:00Z" channel="Club Alianza Lima vs Club Libertad Asuncion">
-    <title>Club Alianza Lima vs Club Libertad Asuncion</title>
+  <programme start="2025-04-03T02:00:00Z" channel="CDC Atlético Nacional vs Club Nacional de Football">
+    <title>CDC Atlético Nacional vs Club Nacional de Football</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-04-02T18:00:00Z" channel="Feyenoord Rotterdam vs FC Groningen">
-    <title>Feyenoord Rotterdam vs FC Groningen</title>
-    <desc>Eredivisie</desc>
-  </programme>
-  <programme start="2025-04-02T18:45:00Z" channel="Brighton & Hove Albion FC vs Aston Villa FC">
-    <title>Brighton & Hove Albion FC vs Aston Villa FC</title>
+  <programme start="2025-04-03T19:00:00Z" channel="Chelsea FC vs Tottenham Hotspur FC">
+    <title>Chelsea FC vs Tottenham Hotspur FC</title>
     <desc>Premier League</desc>
   </programme>
-  <programme start="2025-04-02T18:45:00Z" channel="Newcastle United FC vs Brentford FC">
-    <title>Newcastle United FC vs Brentford FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-02T18:45:00Z" channel="Southampton FC vs Crystal Palace FC">
-    <title>Southampton FC vs Crystal Palace FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-02T18:45:00Z" channel="AFC Bournemouth vs Ipswich Town FC">
-    <title>AFC Bournemouth vs Ipswich Town FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-02T18:45:00Z" channel="Manchester City FC vs Leicester City FC">
-    <title>Manchester City FC vs Leicester City FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-02T18:45:00Z" channel="Derby County FC vs Preston North End FC">
-    <title>Derby County FC vs Preston North End FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-02T19:00:00Z" channel="Liverpool FC vs Everton FC">
-    <title>Liverpool FC vs Everton FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-02T19:15:00Z" channel="Sport Lisboa e Benfica vs SC Farense">
-    <title>Sport Lisboa e Benfica vs SC Farense</title>
-    <desc>Primeira Liga</desc>
-  </programme>
-  <programme start="2025-04-02T22:00:00Z" channel="San Antonio Bulo Bulo vs Olimpia Asuncion">
-    <title>San Antonio Bulo Bulo vs Olimpia Asuncion</title>
+  <programme start="2025-04-03T22:00:00Z" channel="CA Central Córdoba vs LDU de Quito">
+    <title>CA Central Córdoba vs LDU de Quito</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-04-02T22:00:00Z" channel="CA Vélez Sarsfield vs CA Peñarol">
-    <title>CA Vélez Sarsfield vs CA Peñarol</title>
+  <programme start="2025-04-03T22:00:00Z" channel="EC Bahia vs SC Internacional">
+    <title>EC Bahia vs SC Internacional</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-03T22:00:00Z" channel="CS Cristal vs SE Palmeiras">
+    <title>CS Cristal vs SE Palmeiras</title>
     <desc>Copa Libertadores</desc>
   </programme>
 </tv>
