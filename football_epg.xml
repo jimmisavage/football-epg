@@ -1,27 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-07T17:45:00Z" channel="SC Farense vs Casa Pia AC">
-    <title>SC Farense vs Casa Pia AC</title>
-    <desc>Primeira Liga</desc>
+  <programme start="2025-04-08T18:45:00Z" channel="Watford FC vs Hull City AFC">
+    <title>Watford FC vs Hull City AFC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-04-07T18:45:00Z" channel="Bologna FC 1909 vs SSC Napoli">
-    <title>Bologna FC 1909 vs SSC Napoli</title>
-    <desc>Serie A</desc>
+  <programme start="2025-04-08T18:45:00Z" channel="Norwich City FC vs Sunderland AFC">
+    <title>Norwich City FC vs Sunderland AFC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-04-07T19:00:00Z" channel="Leicester City FC vs Newcastle United FC">
-    <title>Leicester City FC vs Newcastle United FC</title>
-    <desc>Premier League</desc>
+  <programme start="2025-04-08T18:45:00Z" channel="Sheffield United FC vs Millwall FC">
+    <title>Sheffield United FC vs Millwall FC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-04-07T19:00:00Z" channel="CD Leganés vs CA Osasuna">
-    <title>CD Leganés vs CA Osasuna</title>
-    <desc>Primera Division</desc>
+  <programme start="2025-04-08T18:45:00Z" channel="Bristol City FC vs West Bromwich Albion FC">
+    <title>Bristol City FC vs West Bromwich Albion FC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-04-07T19:15:00Z" channel="Rio Ave FC vs Boavista FC">
-    <title>Rio Ave FC vs Boavista FC</title>
-    <desc>Primeira Liga</desc>
+  <programme start="2025-04-08T18:45:00Z" channel="Derby County FC vs Burnley FC">
+    <title>Derby County FC vs Burnley FC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-04-07T19:45:00Z" channel="Sporting Clube de Portugal vs Sporting Clube de Braga">
-    <title>Sporting Clube de Portugal vs Sporting Clube de Braga</title>
-    <desc>Primeira Liga</desc>
+  <programme start="2025-04-08T18:45:00Z" channel="Preston North End FC vs Cardiff City FC">
+    <title>Preston North End FC vs Cardiff City FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-08T18:45:00Z" channel="Blackburn Rovers FC vs Sheffield Wednesday FC">
+    <title>Blackburn Rovers FC vs Sheffield Wednesday FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-08T18:45:00Z" channel="Stoke City FC vs Luton Town FC">
+    <title>Stoke City FC vs Luton Town FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-08T19:00:00Z" channel="FC Bayern München vs FC Internazionale Milano">
+    <title>FC Bayern München vs FC Internazionale Milano</title>
+    <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-04-08T19:00:00Z" channel="Middlesbrough FC vs Leeds United FC">
+    <title>Middlesbrough FC vs Leeds United FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-08T19:00:00Z" channel="Arsenal FC vs Real Madrid CF">
+    <title>Arsenal FC vs Real Madrid CF</title>
+    <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-04-08T22:00:00Z" channel="Club Libertad Asuncion vs CA Talleres">
+    <title>Club Libertad Asuncion vs CA Talleres</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-08T22:00:00Z" channel="Botafogo FR vs Carabobo FC">
+    <title>Botafogo FR vs Carabobo FC</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-09T00:00:00Z" channel="Estudiantes de La Plata vs CF Universidad de Chile">
+    <title>Estudiantes de La Plata vs CF Universidad de Chile</title>
+    <desc>Copa Libertadores</desc>
   </programme>
 </tv>
