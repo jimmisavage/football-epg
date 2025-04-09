@@ -1,59 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-08T18:45:00Z" channel="Watford FC vs Hull City AFC">
-    <title>Watford FC vs Hull City AFC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-08T18:45:00Z" channel="Norwich City FC vs Sunderland AFC">
-    <title>Norwich City FC vs Sunderland AFC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-08T18:45:00Z" channel="Sheffield United FC vs Millwall FC">
-    <title>Sheffield United FC vs Millwall FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-08T18:45:00Z" channel="Bristol City FC vs West Bromwich Albion FC">
-    <title>Bristol City FC vs West Bromwich Albion FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-08T18:45:00Z" channel="Derby County FC vs Burnley FC">
-    <title>Derby County FC vs Burnley FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-08T18:45:00Z" channel="Preston North End FC vs Cardiff City FC">
-    <title>Preston North End FC vs Cardiff City FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-08T18:45:00Z" channel="Blackburn Rovers FC vs Sheffield Wednesday FC">
-    <title>Blackburn Rovers FC vs Sheffield Wednesday FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-08T18:45:00Z" channel="Stoke City FC vs Luton Town FC">
-    <title>Stoke City FC vs Luton Town FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-08T19:00:00Z" channel="FC Bayern München vs FC Internazionale Milano">
-    <title>FC Bayern München vs FC Internazionale Milano</title>
-    <desc>UEFA Champions League</desc>
-  </programme>
-  <programme start="2025-04-08T19:00:00Z" channel="Middlesbrough FC vs Leeds United FC">
-    <title>Middlesbrough FC vs Leeds United FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-08T19:00:00Z" channel="Arsenal FC vs Real Madrid CF">
-    <title>Arsenal FC vs Real Madrid CF</title>
-    <desc>UEFA Champions League</desc>
-  </programme>
-  <programme start="2025-04-08T22:00:00Z" channel="Club Libertad Asuncion vs CA Talleres">
-    <title>Club Libertad Asuncion vs CA Talleres</title>
+  <programme start="2025-04-09T00:00:00Z" channel="CA Peñarol vs San Antonio Bulo Bulo">
+    <title>CA Peñarol vs San Antonio Bulo Bulo</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-04-08T22:00:00Z" channel="Botafogo FR vs Carabobo FC">
-    <title>Botafogo FR vs Carabobo FC</title>
+  <programme start="2025-04-09T00:30:00Z" channel="CA River Plate vs Barcelona SC">
+    <title>CA River Plate vs Barcelona SC</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-04-09T00:00:00Z" channel="Estudiantes de La Plata vs CF Universidad de Chile">
+  <programme start="2025-04-09T00:30:00Z" channel="Estudiantes de La Plata vs CF Universidad de Chile">
     <title>Estudiantes de La Plata vs CF Universidad de Chile</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-09T02:00:00Z" channel="CAR Independiente del Valle vs Club Universitario de Deportes">
+    <title>CAR Independiente del Valle vs Club Universitario de Deportes</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-09T18:45:00Z" channel="Swansea City AFC vs Plymouth Argyle FC">
+    <title>Swansea City AFC vs Plymouth Argyle FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-09T18:45:00Z" channel="Oxford United FC vs Queens Park Rangers FC">
+    <title>Oxford United FC vs Queens Park Rangers FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-09T19:00:00Z" channel="Paris Saint-Germain FC vs Aston Villa FC">
+    <title>Paris Saint-Germain FC vs Aston Villa FC</title>
+    <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-04-09T19:00:00Z" channel="Coventry City FC vs Portsmouth FC">
+    <title>Coventry City FC vs Portsmouth FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-09T19:00:00Z" channel="FC Barcelona vs Borussia Dortmund">
+    <title>FC Barcelona vs Borussia Dortmund</title>
+    <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-04-09T22:00:00Z" channel="Club Nacional de Football vs EC Bahia">
+    <title>Club Nacional de Football vs EC Bahia</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-09T22:00:00Z" channel="Olimpia Asuncion vs CA Vélez Sarsfield">
+    <title>Olimpia Asuncion vs CA Vélez Sarsfield</title>
     <desc>Copa Libertadores</desc>
   </programme>
 </tv>
