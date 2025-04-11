@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-10T00:30:00Z" channel="SE Palmeiras vs Club Cerro Porteño">
-    <title>SE Palmeiras vs Club Cerro Porteño</title>
+  <programme start="2025-04-11T00:30:00Z" channel="São Paulo FC vs Club Alianza Lima">
+    <title>São Paulo FC vs Club Alianza Lima</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-04-10T00:30:00Z" channel="CR Flamengo vs CA Central Córdoba">
-    <title>CR Flamengo vs CA Central Córdoba</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-04-10T00:30:00Z" channel="Club Bolívar vs CS Cristal">
-    <title>Club Bolívar vs CS Cristal</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-04-10T02:00:00Z" channel="LDU de Quito vs Deportivo Táchira FC">
-    <title>LDU de Quito vs Deportivo Táchira FC</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-04-10T22:00:00Z" channel="SC Internacional vs CDC Atlético Nacional">
-    <title>SC Internacional vs CDC Atlético Nacional</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-04-10T22:00:00Z" channel="Racing Club vs CA Bucaramanga">
-    <title>Racing Club vs CA Bucaramanga</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-04-11T00:00:00Z" channel="CSD Colo-Colo vs Fortaleza EC">
+  <programme start="2025-04-11T00:30:00Z" channel="CSD Colo-Colo vs Fortaleza EC">
     <title>CSD Colo-Colo vs Fortaleza EC</title>
     <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-11T18:00:00Z" channel="NEC vs RKC Waalwijk">
+    <title>NEC vs RKC Waalwijk</title>
+    <desc>Eredivisie</desc>
+  </programme>
+  <programme start="2025-04-11T18:30:00Z" channel="VfL Wolfsburg vs RB Leipzig">
+    <title>VfL Wolfsburg vs RB Leipzig</title>
+    <desc>Bundesliga</desc>
+  </programme>
+  <programme start="2025-04-11T18:45:00Z" channel="Racing Club de Lens vs Stade de Reims">
+    <title>Racing Club de Lens vs Stade de Reims</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-04-11T18:45:00Z" channel="Udinese Calcio vs AC Milan">
+    <title>Udinese Calcio vs AC Milan</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-11T19:00:00Z" channel="Valencia CF vs Sevilla FC">
+    <title>Valencia CF vs Sevilla FC</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-04-11T19:00:00Z" channel="Burnley FC vs Norwich City FC">
+    <title>Burnley FC vs Norwich City FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-11T19:15:00Z" channel="Gil Vicente FC vs Vitória SC">
+    <title>Gil Vicente FC vs Vitória SC</title>
+    <desc>Primeira Liga</desc>
   </programme>
 </tv>
