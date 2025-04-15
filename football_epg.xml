@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-14T18:45:00Z" channel="SSC Napoli vs Empoli FC">
-    <title>SSC Napoli vs Empoli FC</title>
-    <desc>Serie A</desc>
+  <programme start="2025-04-15T19:00:00Z" channel="Aston Villa FC vs Paris Saint-Germain FC">
+    <title>Aston Villa FC vs Paris Saint-Germain FC</title>
+    <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-04-14T19:00:00Z" channel="Club Atlético de Madrid vs Real Valladolid CF">
-    <title>Club Atlético de Madrid vs Real Valladolid CF</title>
-    <desc>Primera Division</desc>
-  </programme>
-  <programme start="2025-04-14T19:00:00Z" channel="Hull City AFC vs Coventry City FC">
-    <title>Hull City AFC vs Coventry City FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-14T19:00:00Z" channel="AFC Bournemouth vs Fulham FC">
-    <title>AFC Bournemouth vs Fulham FC</title>
-    <desc>Premier League</desc>
+  <programme start="2025-04-15T19:00:00Z" channel="Borussia Dortmund vs FC Barcelona">
+    <title>Borussia Dortmund vs FC Barcelona</title>
+    <desc>UEFA Champions League</desc>
   </programme>
 </tv>
