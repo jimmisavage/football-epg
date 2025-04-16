@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-15T19:00:00Z" channel="Aston Villa FC vs Paris Saint-Germain FC">
-    <title>Aston Villa FC vs Paris Saint-Germain FC</title>
+  <programme start="2025-04-16T00:30:00Z" channel="Ceará SC vs CR Vasco da Gama">
+    <title>Ceará SC vs CR Vasco da Gama</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-16T18:30:00Z" channel="Newcastle United FC vs Crystal Palace FC">
+    <title>Newcastle United FC vs Crystal Palace FC</title>
+    <desc>Premier League</desc>
+  </programme>
+  <programme start="2025-04-16T19:00:00Z" channel="Real Madrid CF vs Arsenal FC">
+    <title>Real Madrid CF vs Arsenal FC</title>
     <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-04-15T19:00:00Z" channel="Borussia Dortmund vs FC Barcelona">
-    <title>Borussia Dortmund vs FC Barcelona</title>
+  <programme start="2025-04-16T19:00:00Z" channel="FC Internazionale Milano vs FC Bayern München">
+    <title>FC Internazionale Milano vs FC Bayern München</title>
     <desc>UEFA Champions League</desc>
+  </programme>
+  <programme start="2025-04-16T21:30:00Z" channel="Botafogo FR vs São Paulo FC">
+    <title>Botafogo FR vs São Paulo FC</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-16T22:00:00Z" channel="Mirassol FC vs Grêmio FBPA">
+    <title>Mirassol FC vs Grêmio FBPA</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-16T22:00:00Z" channel="SC Recife vs RB Bragantino">
+    <title>SC Recife vs RB Bragantino</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-16T22:30:00Z" channel="SC Corinthians Paulista vs Fluminense FC">
+    <title>SC Corinthians Paulista vs Fluminense FC</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-16T22:30:00Z" channel="SC Internacional vs SE Palmeiras">
+    <title>SC Internacional vs SE Palmeiras</title>
+    <desc>Campeonato Brasileiro Série A</desc>
   </programme>
 </tv>
