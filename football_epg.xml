@@ -1,15 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-17T00:30:00Z" channel="Santos FC vs CA Mineiro">
-    <title>Santos FC vs CA Mineiro</title>
+  <programme start="2025-04-18T00:30:00Z" channel="Cruzeiro EC vs EC Bahia">
+    <title>Cruzeiro EC vs EC Bahia</title>
     <desc>Campeonato Brasileiro Série A</desc>
   </programme>
-  <programme start="2025-04-17T00:30:00Z" channel="CR Flamengo vs EC Juventude">
-    <title>CR Flamengo vs EC Juventude</title>
-    <desc>Campeonato Brasileiro Série A</desc>
+  <programme start="2025-04-18T11:30:00Z" channel="Derby County FC vs Luton Town FC">
+    <title>Derby County FC vs Luton Town FC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-04-17T00:30:00Z" channel="EC Vitória vs Fortaleza EC">
-    <title>EC Vitória vs Fortaleza EC</title>
-    <desc>Campeonato Brasileiro Série A</desc>
+  <programme start="2025-04-18T14:00:00Z" channel="Watford FC vs Burnley FC">
+    <title>Watford FC vs Burnley FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T14:00:00Z" channel="Bristol City FC vs Sunderland AFC">
+    <title>Bristol City FC vs Sunderland AFC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T14:00:00Z" channel="Swansea City AFC vs Hull City AFC">
+    <title>Swansea City AFC vs Hull City AFC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T14:00:00Z" channel="Preston North End FC vs Queens Park Rangers FC">
+    <title>Preston North End FC vs Queens Park Rangers FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T14:00:00Z" channel="Middlesbrough FC vs Plymouth Argyle FC">
+    <title>Middlesbrough FC vs Plymouth Argyle FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T14:00:00Z" channel="Blackburn Rovers FC vs Millwall FC">
+    <title>Blackburn Rovers FC vs Millwall FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T14:00:00Z" channel="Norwich City FC vs Portsmouth FC">
+    <title>Norwich City FC vs Portsmouth FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T14:00:00Z" channel="Coventry City FC vs West Bromwich Albion FC">
+    <title>Coventry City FC vs West Bromwich Albion FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T14:00:00Z" channel="Stoke City FC vs Sheffield Wednesday FC">
+    <title>Stoke City FC vs Sheffield Wednesday FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T14:30:00Z" channel="Rio Ave FC vs CD Santa Clara">
+    <title>Rio Ave FC vs CD Santa Clara</title>
+    <desc>Primeira Liga</desc>
+  </programme>
+  <programme start="2025-04-18T14:30:00Z" channel="SC Farense vs Boavista FC">
+    <title>SC Farense vs Boavista FC</title>
+    <desc>Primeira Liga</desc>
+  </programme>
+  <programme start="2025-04-18T16:30:00Z" channel="Sheffield United FC vs Cardiff City FC">
+    <title>Sheffield United FC vs Cardiff City FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T17:00:00Z" channel="FC Porto vs FC Famalicão">
+    <title>FC Porto vs FC Famalicão</title>
+    <desc>Primeira Liga</desc>
+  </programme>
+  <programme start="2025-04-18T18:45:00Z" channel="Stade Rennais FC 1901 vs FC Nantes">
+    <title>Stade Rennais FC 1901 vs FC Nantes</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-04-18T19:00:00Z" channel="Oxford United FC vs Leeds United FC">
+    <title>Oxford United FC vs Leeds United FC</title>
+    <desc>Championship</desc>
+  </programme>
+  <programme start="2025-04-18T19:00:00Z" channel="RCD Espanyol de Barcelona vs Getafe CF">
+    <title>RCD Espanyol de Barcelona vs Getafe CF</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-04-18T19:30:00Z" channel="Sporting Clube de Portugal vs Moreirense FC">
+    <title>Sporting Clube de Portugal vs Moreirense FC</title>
+    <desc>Primeira Liga</desc>
   </programme>
 </tv>
