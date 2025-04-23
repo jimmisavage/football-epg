@@ -1,31 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-22T17:00:00Z" channel="Valencia CF vs RCD Espanyol de Barcelona">
-    <title>Valencia CF vs RCD Espanyol de Barcelona</title>
+  <programme start="2025-04-23T00:30:00Z" channel="CSD Colo-Colo vs Racing Club">
+    <title>CSD Colo-Colo vs Racing Club</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-23T00:30:00Z" channel="SC Internacional vs Club Nacional de Football">
+    <title>SC Internacional vs Club Nacional de Football</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-23T02:00:00Z" channel="Barcelona SC vs Club Universitario de Deportes">
+    <title>Barcelona SC vs Club Universitario de Deportes</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-04-23T16:30:00Z" channel="Cagliari Calcio vs ACF Fiorentina">
+    <title>Cagliari Calcio vs ACF Fiorentina</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-23T16:30:00Z" channel="Genoa CFC vs SS Lazio">
+    <title>Genoa CFC vs SS Lazio</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-23T16:30:00Z" channel="Parma Calcio 1913 vs Juventus FC">
+    <title>Parma Calcio 1913 vs Juventus FC</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-23T16:30:00Z" channel="Torino FC vs Udinese Calcio">
+    <title>Torino FC vs Udinese Calcio</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-23T17:00:00Z" channel="Athletic Club vs UD Las Palmas">
+    <title>Athletic Club vs UD Las Palmas</title>
     <desc>Primera Division</desc>
   </programme>
-  <programme start="2025-04-22T18:45:00Z" channel="FC Nantes vs Paris Saint-Germain FC">
-    <title>FC Nantes vs Paris Saint-Germain FC</title>
-    <desc>Ligue 1</desc>
+  <programme start="2025-04-23T17:00:00Z" channel="RC Celta de Vigo vs Villarreal CF">
+    <title>RC Celta de Vigo vs Villarreal CF</title>
+    <desc>Primera Division</desc>
   </programme>
-  <programme start="2025-04-22T19:00:00Z" channel="Manchester City FC vs Aston Villa FC">
-    <title>Manchester City FC vs Aston Villa FC</title>
+  <programme start="2025-04-23T18:00:00Z" channel="FC Groningen vs Heracles Almelo">
+    <title>FC Groningen vs Heracles Almelo</title>
+    <desc>Eredivisie</desc>
+  </programme>
+  <programme start="2025-04-23T19:00:00Z" channel="Arsenal FC vs Crystal Palace FC">
+    <title>Arsenal FC vs Crystal Palace FC</title>
     <desc>Premier League</desc>
   </programme>
-  <programme start="2025-04-22T19:30:00Z" channel="FC Barcelona vs RCD Mallorca">
-    <title>FC Barcelona vs RCD Mallorca</title>
+  <programme start="2025-04-23T19:30:00Z" channel="Deportivo Alavés vs Real Sociedad de Fútbol">
+    <title>Deportivo Alavés vs Real Sociedad de Fútbol</title>
     <desc>Primera Division</desc>
   </programme>
-  <programme start="2025-04-22T22:00:00Z" channel="LDU de Quito vs CR Flamengo">
-    <title>LDU de Quito vs CR Flamengo</title>
+  <programme start="2025-04-23T19:30:00Z" channel="Getafe CF vs Real Madrid CF">
+    <title>Getafe CF vs Real Madrid CF</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-04-23T22:00:00Z" channel="Olimpia Asuncion vs CA Peñarol">
+    <title>Olimpia Asuncion vs CA Peñarol</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-04-22T22:00:00Z" channel="Club Alianza Lima vs CA Talleres">
-    <title>Club Alianza Lima vs CA Talleres</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-04-22T22:00:00Z" channel="Carabobo FC vs CF Universidad de Chile">
-    <title>Carabobo FC vs CF Universidad de Chile</title>
+  <programme start="2025-04-23T22:00:00Z" channel="San Antonio Bulo Bulo vs CA Vélez Sarsfield">
+    <title>San Antonio Bulo Bulo vs CA Vélez Sarsfield</title>
     <desc>Copa Libertadores</desc>
   </programme>
 </tv>
