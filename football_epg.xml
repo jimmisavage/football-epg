@@ -1,131 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-26T11:30:00Z" channel="Chelsea FC vs Everton FC">
-    <title>Chelsea FC vs Everton FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-26T11:30:00Z" channel="Luton Town FC vs Coventry City FC">
-    <title>Luton Town FC vs Coventry City FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T11:30:00Z" channel="Queens Park Rangers FC vs Burnley FC">
-    <title>Queens Park Rangers FC vs Burnley FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T13:30:00Z" channel="VfL Wolfsburg vs SC Freiburg">
-    <title>VfL Wolfsburg vs SC Freiburg</title>
-    <desc>Bundesliga</desc>
-  </programme>
-  <programme start="2025-04-26T13:30:00Z" channel="Holstein Kiel vs Borussia Mönchengladbach">
-    <title>Holstein Kiel vs Borussia Mönchengladbach</title>
-    <desc>Bundesliga</desc>
-  </programme>
-  <programme start="2025-04-26T13:30:00Z" channel="FC Bayern München vs 1. FSV Mainz 05">
-    <title>FC Bayern München vs 1. FSV Mainz 05</title>
-    <desc>Bundesliga</desc>
-  </programme>
-  <programme start="2025-04-26T13:30:00Z" channel="Bayer 04 Leverkusen vs FC Augsburg">
-    <title>Bayer 04 Leverkusen vs FC Augsburg</title>
-    <desc>Bundesliga</desc>
-  </programme>
-  <programme start="2025-04-26T13:30:00Z" channel="TSG 1899 Hoffenheim vs Borussia Dortmund">
-    <title>TSG 1899 Hoffenheim vs Borussia Dortmund</title>
-    <desc>Bundesliga</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Preston North End FC vs Plymouth Argyle FC">
-    <title>Preston North End FC vs Plymouth Argyle FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Sheffield Wednesday FC vs Portsmouth FC">
-    <title>Sheffield Wednesday FC vs Portsmouth FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Southampton FC vs Fulham FC">
-    <title>Southampton FC vs Fulham FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Millwall FC vs Swansea City AFC">
-    <title>Millwall FC vs Swansea City AFC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Cardiff City FC vs West Bromwich Albion FC">
-    <title>Cardiff City FC vs West Bromwich Albion FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Newcastle United FC vs Ipswich Town FC">
-    <title>Newcastle United FC vs Ipswich Town FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Brighton & Hove Albion FC vs West Ham United FC">
-    <title>Brighton & Hove Albion FC vs West Ham United FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Wolverhampton Wanderers FC vs Leicester City FC">
-    <title>Wolverhampton Wanderers FC vs Leicester City FC</title>
-    <desc>Premier League</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Middlesbrough FC vs Norwich City FC">
-    <title>Middlesbrough FC vs Norwich City FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Blackburn Rovers FC vs Watford FC">
-    <title>Blackburn Rovers FC vs Watford FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Oxford United FC vs Sunderland AFC">
-    <title>Oxford United FC vs Sunderland AFC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T14:00:00Z" channel="Hull City AFC vs Derby County FC">
-    <title>Hull City AFC vs Derby County FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-26T14:30:00Z" channel="CD Santa Clara vs FC Arouca">
-    <title>CD Santa Clara vs FC Arouca</title>
-    <desc>Primeira Liga</desc>
-  </programme>
-  <programme start="2025-04-26T15:00:00Z" channel="RC Strasbourg Alsace vs AS Saint-Étienne">
-    <title>RC Strasbourg Alsace vs AS Saint-Étienne</title>
-    <desc>Ligue 1</desc>
-  </programme>
-  <programme start="2025-04-26T16:30:00Z" channel="Eintracht Frankfurt vs RB Leipzig">
-    <title>Eintracht Frankfurt vs RB Leipzig</title>
-    <desc>Bundesliga</desc>
-  </programme>
-  <programme start="2025-04-26T17:00:00Z" channel="Gil Vicente FC vs SC Farense">
-    <title>Gil Vicente FC vs SC Farense</title>
-    <desc>Primeira Liga</desc>
-  </programme>
-  <programme start="2025-04-26T17:00:00Z" channel="Le Havre AC vs AS Monaco FC">
-    <title>Le Havre AC vs AS Monaco FC</title>
-    <desc>Ligue 1</desc>
-  </programme>
-  <programme start="2025-04-26T19:00:00Z" channel="SC Internacional vs EC Juventude">
-    <title>SC Internacional vs EC Juventude</title>
-    <desc>Campeonato Brasileiro Série A</desc>
-  </programme>
-  <programme start="2025-04-26T19:05:00Z" channel="Olympique Lyonnais vs Stade Rennais FC 1901">
-    <title>Olympique Lyonnais vs Stade Rennais FC 1901</title>
-    <desc>Ligue 1</desc>
-  </programme>
-  <programme start="2025-04-26T19:30:00Z" channel="CF Estrela da Amadora vs FC Porto">
-    <title>CF Estrela da Amadora vs FC Porto</title>
-    <desc>Primeira Liga</desc>
-  </programme>
-  <programme start="2025-04-26T21:30:00Z" channel="Mirassol FC vs CA Mineiro">
-    <title>Mirassol FC vs CA Mineiro</title>
-    <desc>Campeonato Brasileiro Série A</desc>
-  </programme>
-  <programme start="2025-04-26T21:30:00Z" channel="Ceará SC vs São Paulo FC">
-    <title>Ceará SC vs São Paulo FC</title>
-    <desc>Campeonato Brasileiro Série A</desc>
-  </programme>
-  <programme start="2025-04-26T23:00:00Z" channel="SC Recife vs Fortaleza EC">
-    <title>SC Recife vs Fortaleza EC</title>
-    <desc>Campeonato Brasileiro Série A</desc>
-  </programme>
   <programme start="2025-04-27T00:00:00Z" channel="Botafogo FR vs Fluminense FC">
     <title>Botafogo FR vs Fluminense FC</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-27T10:15:00Z" channel="Fortuna Sittard vs Willem II Tilburg">
+    <title>Fortuna Sittard vs Willem II Tilburg</title>
+    <desc>Eredivisie</desc>
+  </programme>
+  <programme start="2025-04-27T10:30:00Z" channel="Como 1907 vs Genoa CFC">
+    <title>Como 1907 vs Genoa CFC</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-27T10:30:00Z" channel="Venezia FC vs AC Milan">
+    <title>Venezia FC vs AC Milan</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-27T12:30:00Z" channel="AFC Ajax vs Sparta Rotterdam">
+    <title>AFC Ajax vs Sparta Rotterdam</title>
+    <desc>Eredivisie</desc>
+  </programme>
+  <programme start="2025-04-27T12:30:00Z" channel="SC Heerenveen vs NEC">
+    <title>SC Heerenveen vs NEC</title>
+    <desc>Eredivisie</desc>
+  </programme>
+  <programme start="2025-04-27T13:00:00Z" channel="Angers SCO vs Lille OSC">
+    <title>Angers SCO vs Lille OSC</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-04-27T13:00:00Z" channel="AFC Bournemouth vs Manchester United FC">
+    <title>AFC Bournemouth vs Manchester United FC</title>
+    <desc>Premier League</desc>
+  </programme>
+  <programme start="2025-04-27T13:00:00Z" channel="ACF Fiorentina vs Empoli FC">
+    <title>ACF Fiorentina vs Empoli FC</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-27T13:00:00Z" channel="FC Internazionale Milano vs AS Roma">
+    <title>FC Internazionale Milano vs AS Roma</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-27T13:30:00Z" channel="VfL Bochum 1848 vs 1. FC Union Berlin">
+    <title>VfL Bochum 1848 vs 1. FC Union Berlin</title>
+    <desc>Bundesliga</desc>
+  </programme>
+  <programme start="2025-04-27T14:15:00Z" channel="Villarreal CF vs RCD Espanyol de Barcelona">
+    <title>Villarreal CF vs RCD Espanyol de Barcelona</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-04-27T14:30:00Z" channel="Moreirense FC vs CD Nacional">
+    <title>Moreirense FC vs CD Nacional</title>
+    <desc>Primeira Liga</desc>
+  </programme>
+  <programme start="2025-04-27T14:45:00Z" channel="Almere City FC vs Go Ahead Eagles">
+    <title>Almere City FC vs Go Ahead Eagles</title>
+    <desc>Eredivisie</desc>
+  </programme>
+  <programme start="2025-04-27T15:15:00Z" channel="FC Nantes vs Toulouse FC">
+    <title>FC Nantes vs Toulouse FC</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-04-27T15:15:00Z" channel="Montpellier HSC vs Stade de Reims">
+    <title>Montpellier HSC vs Stade de Reims</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-04-27T15:15:00Z" channel="Racing Club de Lens vs AJ Auxerre">
+    <title>Racing Club de Lens vs AJ Auxerre</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-04-27T15:30:00Z" channel="Liverpool FC vs Tottenham Hotspur FC">
+    <title>Liverpool FC vs Tottenham Hotspur FC</title>
+    <desc>Premier League</desc>
+  </programme>
+  <programme start="2025-04-27T15:30:00Z" channel="SV Werder Bremen vs FC St. Pauli 1910">
+    <title>SV Werder Bremen vs FC St. Pauli 1910</title>
+    <desc>Bundesliga</desc>
+  </programme>
+  <programme start="2025-04-27T16:00:00Z" channel="Juventus FC vs AC Monza">
+    <title>Juventus FC vs AC Monza</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-27T17:00:00Z" channel="Sport Lisboa e Benfica vs AVS">
+    <title>Sport Lisboa e Benfica vs AVS</title>
+    <desc>Primeira Liga</desc>
+  </programme>
+  <programme start="2025-04-27T17:00:00Z" channel="Vitória SC vs Rio Ave FC">
+    <title>Vitória SC vs Rio Ave FC</title>
+    <desc>Primeira Liga</desc>
+  </programme>
+  <programme start="2025-04-27T18:45:00Z" channel="Olympique de Marseille vs Stade Brestois 29">
+    <title>Olympique de Marseille vs Stade Brestois 29</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-04-27T18:45:00Z" channel="Atalanta BC vs US Lecce">
+    <title>Atalanta BC vs US Lecce</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-27T18:45:00Z" channel="SSC Napoli vs Torino FC">
+    <title>SSC Napoli vs Torino FC</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-04-27T19:00:00Z" channel="CR Flamengo vs SC Corinthians Paulista">
+    <title>CR Flamengo vs SC Corinthians Paulista</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-27T19:30:00Z" channel="Boavista FC vs Sporting Clube de Portugal">
+    <title>Boavista FC vs Sporting Clube de Portugal</title>
+    <desc>Primeira Liga</desc>
+  </programme>
+  <programme start="2025-04-27T21:30:00Z" channel="SE Palmeiras vs EC Bahia">
+    <title>SE Palmeiras vs EC Bahia</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-27T21:30:00Z" channel="Cruzeiro EC vs CR Vasco da Gama">
+    <title>Cruzeiro EC vs CR Vasco da Gama</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-27T21:30:00Z" channel="EC Vitória vs Grêmio FBPA">
+    <title>EC Vitória vs Grêmio FBPA</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-04-27T23:30:00Z" channel="Santos FC vs RB Bragantino">
+    <title>Santos FC vs RB Bragantino</title>
     <desc>Campeonato Brasileiro Série A</desc>
   </programme>
 </tv>
