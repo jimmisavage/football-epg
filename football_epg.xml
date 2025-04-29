@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-04-28T16:30:00Z" channel="Udinese Calcio vs Bologna FC 1909">
-    <title>Udinese Calcio vs Bologna FC 1909</title>
-    <desc>Serie A</desc>
-  </programme>
-  <programme start="2025-04-28T18:45:00Z" channel="SS Lazio vs Parma Calcio 1913">
-    <title>SS Lazio vs Parma Calcio 1913</title>
-    <desc>Serie A</desc>
-  </programme>
-  <programme start="2025-04-28T18:45:00Z" channel="Hellas Verona FC vs Cagliari Calcio">
-    <title>Hellas Verona FC vs Cagliari Calcio</title>
-    <desc>Serie A</desc>
-  </programme>
-  <programme start="2025-04-28T19:00:00Z" channel="Leeds United FC vs Bristol City FC">
-    <title>Leeds United FC vs Bristol City FC</title>
-    <desc>Championship</desc>
-  </programme>
-  <programme start="2025-04-28T19:15:00Z" channel="Casa Pia AC vs GD Estoril Praia">
-    <title>Casa Pia AC vs GD Estoril Praia</title>
-    <desc>Primeira Liga</desc>
+  <programme start="2025-04-29T19:00:00Z" channel="None vs None">
+    <title>None vs None</title>
+    <desc>UEFA Champions League</desc>
   </programme>
 </tv>
