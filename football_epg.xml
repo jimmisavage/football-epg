@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-01T18:30:00Z" channel="Nottingham Forest FC vs Brentford FC">
-    <title>Nottingham Forest FC vs Brentford FC</title>
+  <programme start="2025-05-02T18:30:00Z" channel="1. FC Heidenheim 1846 vs VfL Bochum 1848">
+    <title>1. FC Heidenheim 1846 vs VfL Bochum 1848</title>
+    <desc>Bundesliga</desc>
+  </programme>
+  <programme start="2025-05-02T18:45:00Z" channel="Torino FC vs Venezia FC">
+    <title>Torino FC vs Venezia FC</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-05-02T18:45:00Z" channel="OGC Nice vs Stade de Reims">
+    <title>OGC Nice vs Stade de Reims</title>
+    <desc>Ligue 1</desc>
+  </programme>
+  <programme start="2025-05-02T19:00:00Z" channel="Rayo Vallecano de Madrid vs Getafe CF">
+    <title>Rayo Vallecano de Madrid vs Getafe CF</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-05-02T19:00:00Z" channel="Manchester City FC vs Wolverhampton Wanderers FC">
+    <title>Manchester City FC vs Wolverhampton Wanderers FC</title>
     <desc>Premier League</desc>
+  </programme>
+  <programme start="2025-05-02T19:15:00Z" channel="FC Porto vs Moreirense FC">
+    <title>FC Porto vs Moreirense FC</title>
+    <desc>Primeira Liga</desc>
   </programme>
 </tv>
