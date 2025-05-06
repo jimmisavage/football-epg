@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-05T18:45:00Z" channel="Genoa CFC vs AC Milan">
-    <title>Genoa CFC vs AC Milan</title>
-    <desc>Serie A</desc>
+  <programme start="2025-05-06T19:00:00Z" channel="FC Internazionale Milano vs FC Barcelona">
+    <title>FC Internazionale Milano vs FC Barcelona</title>
+    <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-05-05T19:00:00Z" channel="Crystal Palace FC vs Nottingham Forest FC">
-    <title>Crystal Palace FC vs Nottingham Forest FC</title>
-    <desc>Premier League</desc>
+  <programme start="2025-05-06T22:00:00Z" channel="Club Alianza Lima vs São Paulo FC">
+    <title>Club Alianza Lima vs São Paulo FC</title>
+    <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-05-05T19:00:00Z" channel="Girona FC vs RCD Mallorca">
-    <title>Girona FC vs RCD Mallorca</title>
-    <desc>Primera Division</desc>
+  <programme start="2025-05-06T22:00:00Z" channel="Carabobo FC vs Botafogo FR">
+    <title>Carabobo FC vs Botafogo FR</title>
+    <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-05-05T19:15:00Z" channel="AVS vs Boavista FC">
-    <title>AVS vs Boavista FC</title>
-    <desc>Primeira Liga</desc>
-  </programme>
-  <programme start="2025-05-05T22:00:00Z" channel="RB Bragantino vs Mirassol FC">
-    <title>RB Bragantino vs Mirassol FC</title>
-    <desc>Campeonato Brasileiro Série A</desc>
-  </programme>
-  <programme start="2025-05-05T23:00:00Z" channel="EC Juventude vs CA Mineiro">
-    <title>EC Juventude vs CA Mineiro</title>
-    <desc>Campeonato Brasileiro Série A</desc>
+  <programme start="2025-05-06T22:00:00Z" channel="CA Bucaramanga vs Racing Club">
+    <title>CA Bucaramanga vs Racing Club</title>
+    <desc>Copa Libertadores</desc>
   </programme>
 </tv>
