@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-07T00:30:00Z" channel="Fortaleza EC vs CSD Colo-Colo">
-    <title>Fortaleza EC vs CSD Colo-Colo</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-05-07T02:00:00Z" channel="San Antonio Bulo Bulo vs CA Peñarol">
-    <title>San Antonio Bulo Bulo vs CA Peñarol</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-05-07T19:00:00Z" channel="Paris Saint-Germain FC vs Arsenal FC">
-    <title>Paris Saint-Germain FC vs Arsenal FC</title>
-    <desc>UEFA Champions League</desc>
-  </programme>
-  <programme start="2025-05-07T22:00:00Z" channel="EC Bahia vs Club Nacional de Football">
-    <title>EC Bahia vs Club Nacional de Football</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-05-07T22:00:00Z" channel="Deportivo Táchira FC vs LDU de Quito">
-    <title>Deportivo Táchira FC vs LDU de Quito</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
   <programme start="2025-05-08T00:00:00Z" channel="CF Universidad de Chile vs Estudiantes de La Plata">
     <title>CF Universidad de Chile vs Estudiantes de La Plata</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-08T00:30:00Z" channel="Club Cerro Porteño vs SE Palmeiras">
+    <title>Club Cerro Porteño vs SE Palmeiras</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-08T00:30:00Z" channel="CA Central Córdoba vs CR Flamengo">
+    <title>CA Central Córdoba vs CR Flamengo</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-08T02:00:00Z" channel="CS Cristal vs Club Bolívar">
+    <title>CS Cristal vs Club Bolívar</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-08T22:00:00Z" channel="CA Talleres vs Club Libertad Asuncion">
+    <title>CA Talleres vs Club Libertad Asuncion</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-08T22:00:00Z" channel="CA Vélez Sarsfield vs Olimpia Asuncion">
+    <title>CA Vélez Sarsfield vs Olimpia Asuncion</title>
     <desc>Copa Libertadores</desc>
   </programme>
 </tv>
