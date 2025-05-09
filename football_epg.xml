@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-08T00:00:00Z" channel="CF Universidad de Chile vs Estudiantes de La Plata">
-    <title>CF Universidad de Chile vs Estudiantes de La Plata</title>
+  <programme start="2025-05-09T00:30:00Z" channel="Barcelona SC vs CA River Plate">
+    <title>Barcelona SC vs CA River Plate</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-05-08T00:30:00Z" channel="Club Cerro Porteño vs SE Palmeiras">
-    <title>Club Cerro Porteño vs SE Palmeiras</title>
+  <programme start="2025-05-09T00:30:00Z" channel="CDC Atlético Nacional vs SC Internacional">
+    <title>CDC Atlético Nacional vs SC Internacional</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-05-08T00:30:00Z" channel="CA Central Córdoba vs CR Flamengo">
-    <title>CA Central Córdoba vs CR Flamengo</title>
+  <programme start="2025-05-09T02:00:00Z" channel="Club Universitario de Deportes vs CAR Independiente del Valle">
+    <title>Club Universitario de Deportes vs CAR Independiente del Valle</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-05-08T02:00:00Z" channel="CS Cristal vs Club Bolívar">
-    <title>CS Cristal vs Club Bolívar</title>
-    <desc>Copa Libertadores</desc>
+  <programme start="2025-05-09T18:00:00Z" channel="Willem II Tilburg vs Heracles Almelo">
+    <title>Willem II Tilburg vs Heracles Almelo</title>
+    <desc>Eredivisie</desc>
   </programme>
-  <programme start="2025-05-08T22:00:00Z" channel="CA Talleres vs Club Libertad Asuncion">
-    <title>CA Talleres vs Club Libertad Asuncion</title>
-    <desc>Copa Libertadores</desc>
+  <programme start="2025-05-09T18:30:00Z" channel="VfL Wolfsburg vs TSG 1899 Hoffenheim">
+    <title>VfL Wolfsburg vs TSG 1899 Hoffenheim</title>
+    <desc>Bundesliga</desc>
   </programme>
-  <programme start="2025-05-08T22:00:00Z" channel="CA Vélez Sarsfield vs Olimpia Asuncion">
-    <title>CA Vélez Sarsfield vs Olimpia Asuncion</title>
-    <desc>Copa Libertadores</desc>
+  <programme start="2025-05-09T18:45:00Z" channel="AC Milan vs Bologna FC 1909">
+    <title>AC Milan vs Bologna FC 1909</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-05-09T19:00:00Z" channel="UD Las Palmas vs Rayo Vallecano de Madrid">
+    <title>UD Las Palmas vs Rayo Vallecano de Madrid</title>
+    <desc>Primera Division</desc>
   </programme>
 </tv>
