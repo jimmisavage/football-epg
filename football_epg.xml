@@ -1,47 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-15T00:30:00Z" channel="Botafogo FR vs Estudiantes de La Plata">
-    <title>Botafogo FR vs Estudiantes de La Plata</title>
+  <programme start="2025-05-16T00:30:00Z" channel="CR Flamengo vs LDU de Quito">
+    <title>CR Flamengo vs LDU de Quito</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-05-15T00:30:00Z" channel="São Paulo FC vs Club Libertad Asuncion">
-    <title>São Paulo FC vs Club Libertad Asuncion</title>
+  <programme start="2025-05-16T00:30:00Z" channel="CA River Plate vs CAR Independiente del Valle">
+    <title>CA River Plate vs CAR Independiente del Valle</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-05-15T00:30:00Z" channel="Racing Club vs CSD Colo-Colo">
-    <title>Racing Club vs CSD Colo-Colo</title>
-    <desc>Copa Libertadores</desc>
+  <programme start="2025-05-16T18:00:00Z" channel="FC Famalicão vs Casa Pia AC">
+    <title>FC Famalicão vs Casa Pia AC</title>
+    <desc>Primeira Liga</desc>
   </programme>
-  <programme start="2025-05-15T02:00:00Z" channel="Club Universitario de Deportes vs Barcelona SC">
-    <title>Club Universitario de Deportes vs Barcelona SC</title>
-    <desc>Copa Libertadores</desc>
+  <programme start="2025-05-16T18:00:00Z" channel="Rio Ave FC vs Gil Vicente FC">
+    <title>Rio Ave FC vs Gil Vicente FC</title>
+    <desc>Primeira Liga</desc>
   </programme>
-  <programme start="2025-05-15T17:00:00Z" channel="CA Osasuna vs Club Atlético de Madrid">
-    <title>CA Osasuna vs Club Atlético de Madrid</title>
-    <desc>Primera Division</desc>
+  <programme start="2025-05-16T18:30:00Z" channel="Aston Villa FC vs Tottenham Hotspur FC">
+    <title>Aston Villa FC vs Tottenham Hotspur FC</title>
+    <desc>Premier League</desc>
   </programme>
-  <programme start="2025-05-15T17:00:00Z" channel="Rayo Vallecano de Madrid vs Real Betis Balompié">
-    <title>Rayo Vallecano de Madrid vs Real Betis Balompié</title>
-    <desc>Primera Division</desc>
-  </programme>
-  <programme start="2025-05-15T19:30:00Z" channel="RCD Espanyol de Barcelona vs FC Barcelona">
-    <title>RCD Espanyol de Barcelona vs FC Barcelona</title>
-    <desc>Primera Division</desc>
-  </programme>
-  <programme start="2025-05-15T19:30:00Z" channel="Getafe CF vs Athletic Club">
-    <title>Getafe CF vs Athletic Club</title>
-    <desc>Primera Division</desc>
-  </programme>
-  <programme start="2025-05-15T22:00:00Z" channel="CA Talleres vs Club Alianza Lima">
-    <title>CA Talleres vs Club Alianza Lima</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-05-15T22:00:00Z" channel="Club Nacional de Football vs SC Internacional">
-    <title>Club Nacional de Football vs SC Internacional</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-05-15T22:00:00Z" channel="SE Palmeiras vs Club Bolívar">
-    <title>SE Palmeiras vs Club Bolívar</title>
-    <desc>Copa Libertadores</desc>
+  <programme start="2025-05-16T19:15:00Z" channel="Chelsea FC vs Manchester United FC">
+    <title>Chelsea FC vs Manchester United FC</title>
+    <desc>Premier League</desc>
   </programme>
 </tv>
