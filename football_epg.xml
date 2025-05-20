@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-19T19:00:00Z" channel="Brighton & Hove Albion FC vs Liverpool FC">
-    <title>Brighton & Hove Albion FC vs Liverpool FC</title>
+  <programme start="2025-05-20T19:00:00Z" channel="Manchester City FC vs AFC Bournemouth">
+    <title>Manchester City FC vs AFC Bournemouth</title>
+    <desc>Premier League</desc>
+  </programme>
+  <programme start="2025-05-20T19:00:00Z" channel="Crystal Palace FC vs Wolverhampton Wanderers FC">
+    <title>Crystal Palace FC vs Wolverhampton Wanderers FC</title>
     <desc>Premier League</desc>
   </programme>
 </tv>
