@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <programme start="2025-05-23T18:45:00Z" channel="SSC Napoli vs Cagliari Calcio">
+    <title>SSC Napoli vs Cagliari Calcio</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-05-23T18:45:00Z" channel="Como 1907 vs FC Internazionale Milano">
+    <title>Como 1907 vs FC Internazionale Milano</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-05-23T19:00:00Z" channel="Real Betis Balompié vs Valencia CF">
+    <title>Real Betis Balompié vs Valencia CF</title>
+    <desc>Primera Division</desc>
+  </programme>
 </tv>
