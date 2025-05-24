@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-23T18:45:00Z" channel="SSC Napoli vs Cagliari Calcio">
-    <title>SSC Napoli vs Cagliari Calcio</title>
-    <desc>Serie A</desc>
+  <programme start="2025-05-24T14:00:00Z" channel="Sheffield United FC vs Sunderland AFC">
+    <title>Sheffield United FC vs Sunderland AFC</title>
+    <desc>Championship</desc>
   </programme>
-  <programme start="2025-05-23T18:45:00Z" channel="Como 1907 vs FC Internazionale Milano">
-    <title>Como 1907 vs FC Internazionale Milano</title>
-    <desc>Serie A</desc>
-  </programme>
-  <programme start="2025-05-23T19:00:00Z" channel="Real Betis Balompié vs Valencia CF">
-    <title>Real Betis Balompié vs Valencia CF</title>
+  <programme start="2025-05-24T14:15:00Z" channel="Real Madrid CF vs Real Sociedad de Fútbol">
+    <title>Real Madrid CF vs Real Sociedad de Fútbol</title>
     <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-05-24T16:00:00Z" channel="Bologna FC 1909 vs Genoa CFC">
+    <title>Bologna FC 1909 vs Genoa CFC</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-05-24T16:30:00Z" channel="CD Leganés vs Real Valladolid CF">
+    <title>CD Leganés vs Real Valladolid CF</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-05-24T16:30:00Z" channel="RCD Espanyol de Barcelona vs UD Las Palmas">
+    <title>RCD Espanyol de Barcelona vs UD Las Palmas</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-05-24T18:45:00Z" channel="AC Milan vs AC Monza">
+    <title>AC Milan vs AC Monza</title>
+    <desc>Serie A</desc>
+  </programme>
+  <programme start="2025-05-24T19:00:00Z" channel="Deportivo Alavés vs CA Osasuna">
+    <title>Deportivo Alavés vs CA Osasuna</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-05-24T19:00:00Z" channel="Getafe CF vs RC Celta de Vigo">
+    <title>Getafe CF vs RC Celta de Vigo</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-05-24T19:00:00Z" channel="Rayo Vallecano de Madrid vs RCD Mallorca">
+    <title>Rayo Vallecano de Madrid vs RCD Mallorca</title>
+    <desc>Primera Division</desc>
+  </programme>
+  <programme start="2025-05-24T21:30:00Z" channel="Fluminense FC vs CR Vasco da Gama">
+    <title>Fluminense FC vs CR Vasco da Gama</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-05-24T21:30:00Z" channel="São Paulo FC vs Mirassol FC">
+    <title>São Paulo FC vs Mirassol FC</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-05-25T00:00:00Z" channel="CA Mineiro vs SC Corinthians Paulista">
+    <title>CA Mineiro vs SC Corinthians Paulista</title>
+    <desc>Campeonato Brasileiro Série A</desc>
   </programme>
 </tv>
