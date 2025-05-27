@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-26T23:00:00Z" channel="RB Bragantino vs EC Juventude">
-    <title>RB Bragantino vs EC Juventude</title>
-    <desc>Campeonato Brasileiro Série A</desc>
+  <programme start="2025-05-27T22:00:00Z" channel="Club Libertad Asuncion vs Club Alianza Lima">
+    <title>Club Libertad Asuncion vs Club Alianza Lima</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-27T22:00:00Z" channel="São Paulo FC vs CA Talleres">
+    <title>São Paulo FC vs CA Talleres</title>
+    <desc>Copa Libertadores</desc>
   </programme>
 </tv>
