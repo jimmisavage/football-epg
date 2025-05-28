@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-27T22:00:00Z" channel="Club Libertad Asuncion vs Club Alianza Lima">
-    <title>Club Libertad Asuncion vs Club Alianza Lima</title>
+  <programme start="2025-05-28T00:30:00Z" channel="Estudiantes de La Plata vs Carabobo FC">
+    <title>Estudiantes de La Plata vs Carabobo FC</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-05-27T22:00:00Z" channel="São Paulo FC vs CA Talleres">
-    <title>São Paulo FC vs CA Talleres</title>
+  <programme start="2025-05-28T00:30:00Z" channel="CAR Independiente del Valle vs Barcelona SC">
+    <title>CAR Independiente del Valle vs Barcelona SC</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-28T00:30:00Z" channel="CA River Plate vs Club Universitario de Deportes">
+    <title>CA River Plate vs Club Universitario de Deportes</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-28T00:30:00Z" channel="Botafogo FR vs CF Universidad de Chile">
+    <title>Botafogo FR vs CF Universidad de Chile</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-28T22:00:00Z" channel="SC Internacional vs EC Bahia">
+    <title>SC Internacional vs EC Bahia</title>
+    <desc>Copa Libertadores</desc>
+  </programme>
+  <programme start="2025-05-28T22:00:00Z" channel="Club Nacional de Football vs CDC Atlético Nacional">
+    <title>Club Nacional de Football vs CDC Atlético Nacional</title>
     <desc>Copa Libertadores</desc>
   </programme>
 </tv>
