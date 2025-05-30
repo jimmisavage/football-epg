@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-29T00:30:00Z" channel="CR Flamengo vs Deportivo Táchira FC">
-    <title>CR Flamengo vs Deportivo Táchira FC</title>
+  <programme start="2025-05-30T00:30:00Z" channel="Racing Club vs Fortaleza EC">
+    <title>Racing Club vs Fortaleza EC</title>
     <desc>Copa Libertadores</desc>
   </programme>
-  <programme start="2025-05-29T00:30:00Z" channel="LDU de Quito vs CA Central Córdoba">
-    <title>LDU de Quito vs CA Central Córdoba</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-05-29T00:30:00Z" channel="SE Palmeiras vs CS Cristal">
-    <title>SE Palmeiras vs CS Cristal</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-05-29T00:30:00Z" channel="Club Bolívar vs Club Cerro Porteño">
-    <title>Club Bolívar vs Club Cerro Porteño</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-05-29T22:00:00Z" channel="CA Peñarol vs CA Vélez Sarsfield">
-    <title>CA Peñarol vs CA Vélez Sarsfield</title>
-    <desc>Copa Libertadores</desc>
-  </programme>
-  <programme start="2025-05-29T22:00:00Z" channel="Olimpia Asuncion vs San Antonio Bulo Bulo">
-    <title>Olimpia Asuncion vs San Antonio Bulo Bulo</title>
+  <programme start="2025-05-30T00:30:00Z" channel="CSD Colo-Colo vs CA Bucaramanga">
+    <title>CSD Colo-Colo vs CA Bucaramanga</title>
     <desc>Copa Libertadores</desc>
   </programme>
 </tv>
