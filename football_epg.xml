@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <programme start="2025-05-30T00:30:00Z" channel="Racing Club vs Fortaleza EC">
-    <title>Racing Club vs Fortaleza EC</title>
-    <desc>Copa Libertadores</desc>
+  <programme start="2025-05-31T19:00:00Z" channel="Paris Saint-Germain FC vs FC Internazionale Milano">
+    <title>Paris Saint-Germain FC vs FC Internazionale Milano</title>
+    <desc>UEFA Champions League</desc>
   </programme>
-  <programme start="2025-05-30T00:30:00Z" channel="CSD Colo-Colo vs CA Bucaramanga">
-    <title>CSD Colo-Colo vs CA Bucaramanga</title>
-    <desc>Copa Libertadores</desc>
+  <programme start="2025-05-31T21:30:00Z" channel="EC Bahia vs São Paulo FC">
+    <title>EC Bahia vs São Paulo FC</title>
+    <desc>Campeonato Brasileiro Série A</desc>
+  </programme>
+  <programme start="2025-06-01T00:00:00Z" channel="CR Vasco da Gama vs RB Bragantino">
+    <title>CR Vasco da Gama vs RB Bragantino</title>
+    <desc>Campeonato Brasileiro Série A</desc>
   </programme>
 </tv>
